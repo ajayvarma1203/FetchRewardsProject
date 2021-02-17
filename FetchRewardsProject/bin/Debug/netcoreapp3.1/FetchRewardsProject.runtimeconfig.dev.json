@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/ajayvarma/.dotnet/store/|arch|/|tfm|",
+      "/Users/ajayvarma/.nuget/packages"
+    ]
+  }
+}

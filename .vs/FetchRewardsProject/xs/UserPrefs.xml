@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{F0178C99-F630-4159-AB18-46D183EE1B14}|Default">
+  <MonoDevelop.Ide.ItemProperties.FetchRewardsProject PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FetchRewardsProject/Properties/launchSettings.json">
+    <Files>
+      <File FileName="FetchRewardsProject/Controllers/AddTransactionController.cs" Line="27" Column="39" />
+      <File FileName="FetchRewardsProject/Transaction.cs" Line="9" Column="1" />
+      <File FileName="FetchRewardsProject/Startup.cs" Line="47" Column="44" />
+      <File FileName="FetchRewardsProject/Controllers/SpendController.cs" Line="109" Column="14" />
+      <File FileName="FetchRewardsProject/PayerAccount.cs" Line="7" Column="40" />
+      <File FileName="FetchRewardsProject/Controllers/BalanceController.cs" Line="18" Column="1" />
+      <File FileName="FetchRewardsProject/Program.cs" Line="1" Column="1" />
+      <File FileName="FetchRewardsProject/Properties/launchSettings.json" Line="23" Column="36" />
+      <File FileName="FetchRewardsProject/appsettings.json" Line="1" Column="1" />
+      <File FileName="FetchRewardsProject/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="FetchRewardsProject/readme.txt" Line="71" Column="156" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FetchRewardsProject" expanded="True">
+            <Node name="FetchRewardsProject" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
